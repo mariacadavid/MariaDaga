@@ -56,7 +56,7 @@ def mariadaga(args):
     print("Process ended")
     
 
-#Argumentos deben ser llamados asi= mariadaga.py, data_base_path, gbff_files_path, verbose_mode, delete_mode
+#Arguments in command line => mariadaga.py, data_base_path, gbff_files_path, verbose_mode, delete_mode
 if __name__ == "__main__":
     import sys 
     mariadaga(sys.argv)
