@@ -12,8 +12,8 @@ Command line for console:
 
 >> python3 mariadaga.py "data_base_path" "gbff_files_path" "verbose_mode" "delete_mode"
 
-- verbose_mode must be "Y" when you want the program to show indications of what it is processing, else "N"
-- delete_mode must be "Y" when you want to delete pre-existent in the database before processing new files, to keep previous info in the database and just add new records delete_mode must be "N" 
+- verbose_mode must be "Y" when you want the program to show indications of what it is processing, else "N".
+- delete_mode must be "Y" when you want to delete pre-existent in the database before processing new files, to keep previous info in the database and just add new records delete_mode must be "N".
 
 
 
