@@ -6,7 +6,7 @@ Mariadaga is a program to upload GeneBank file information into a SQL database.
 The SQLlite databse that is built contains 4 tables: organism, extended comments, protein, sequence. (For a better understanding of its structure refer to the file "Diagram_database.png")
 
 Here you can find the main script (mariadaga.py) and source scripts (in lib directory: flatlayer.py, sqlitelayer.py and transfer.py) for the program which is writen in python.
-To run the program you must have all the scripts (here provided), the SQL database to fill (here provided) and your own directory with the genebank (.gbff) files of interest. 
+To run the program you must have all the scripts (here provided), the SQL database to fill (zip here provided) and your own directory with the genebank (.gbff) files of interest. 
 
 Command line for console: 
 
