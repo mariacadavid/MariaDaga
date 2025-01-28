@@ -1,5 +1,4 @@
-# MariaDaga
-GeneBank to SQL
+# MariaDaga (GeneBank to SQL)
 
 Mariadaga is a tool to upload GeneBank file information into a SQL database.
 
